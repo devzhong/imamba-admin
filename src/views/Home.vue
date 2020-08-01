@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="jenkins for vue ci cd test"/>
+    <HelloWorld msg="jenkins for vue ci cd test2"/>
   </div>
 </template>
 
